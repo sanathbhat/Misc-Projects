@@ -1,0 +1,9 @@
+Solver for the popular 'WORDAMENT' game. Uses C#(Stop complaining haters!!) :)
+- .exe in WordamentSolver/bin/Debug runs on Windows or using wine.
+- To use the solver:
+	- Hit setup for setting up faster computation using something similar to 'tries'
+	- Enter the letters/prefixes/suffixes exactly as they appear in the wordament grid into the grid on the left. Tab moves to next grid cell for fast input
+	- Hit solve! Words appear in the list. If individual boxes have different poinnt values, use the grid on the right to enter the point values and sort by points.
+	- Start keying the largest words and instantly beat your bully friends(devilish smile)
+-Notes: Yeah I know, entering the grid manually is a pain and causes a loss of 10-20 secs. But hell, I can still reach twice the score my fastest friends can reach when I use this!
+-Disclaimer: My objective is just having fun with code(and maybe beating my bully friends), not competing professionally in Wordament. I do not recommend/encourage use of this app for cheating in Wordament if playing seriously for leaderboard positions.
