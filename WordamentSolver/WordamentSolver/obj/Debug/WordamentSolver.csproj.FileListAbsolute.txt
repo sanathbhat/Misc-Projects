@@ -1,0 +1,22 @@
+F:\My Works\WordamentSolver\WordamentSolver\bin\Debug\WordamentSolver.exe.config
+F:\My Works\WordamentSolver\WordamentSolver\bin\Debug\WordamentSolver.exe
+F:\My Works\WordamentSolver\WordamentSolver\bin\Debug\WordamentSolver.pdb
+F:\My Works\WordamentSolver\WordamentSolver\obj\Debug\WordamentSolver.csprojResolveAssemblyReference.cache
+F:\My Works\WordamentSolver\WordamentSolver\obj\Debug\WordamentSolver.Form1.resources
+F:\My Works\WordamentSolver\WordamentSolver\obj\Debug\WordamentSolver.Properties.Resources.resources
+F:\My Works\WordamentSolver\WordamentSolver\obj\Debug\WordamentSolver.csproj.GenerateResource.Cache
+F:\My Works\WordamentSolver\WordamentSolver\obj\Debug\WordamentSolver.exe
+F:\My Works\WordamentSolver\WordamentSolver\obj\Debug\WordamentSolver.pdb
+F:\My Works\WordamentSolver\WordamentSolver\bin\Debug\NetSpell.SpellChecker.dll
+F:\My Works\WordamentSolver\WordamentSolver\bin\Debug\NetSpell.SpellChecker.xml
+F:\My Works\WordamentSolver - Another Approach\WordamentSolver\bin\Debug\WordamentSolver.exe.config
+F:\My Works\WordamentSolver - Another Approach\WordamentSolver\obj\Debug\WordamentSolver.exe
+F:\My Works\WordamentSolver - Another Approach\WordamentSolver\obj\Debug\WordamentSolver.pdb
+F:\My Works\WordamentSolver - Another Approach\WordamentSolver\bin\Debug\WordamentSolver.exe
+F:\My Works\WordamentSolver - Another Approach\WordamentSolver\bin\Debug\WordamentSolver.pdb
+F:\My Works\WordamentSolver - Another Approach\WordamentSolver\bin\Debug\NetSpell.SpellChecker.dll
+F:\My Works\WordamentSolver - Another Approach\WordamentSolver\bin\Debug\NetSpell.SpellChecker.xml
+F:\My Works\WordamentSolver - Another Approach\WordamentSolver\obj\Debug\WordamentSolver.csprojResolveAssemblyReference.cache
+F:\My Works\WordamentSolver - Another Approach\WordamentSolver\obj\Debug\WordamentSolver.Form1.resources
+F:\My Works\WordamentSolver - Another Approach\WordamentSolver\obj\Debug\WordamentSolver.Properties.Resources.resources
+F:\My Works\WordamentSolver - Another Approach\WordamentSolver\obj\Debug\WordamentSolver.csproj.GenerateResource.Cache

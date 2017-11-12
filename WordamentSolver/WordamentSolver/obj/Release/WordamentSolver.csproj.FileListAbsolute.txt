@@ -1,0 +1,10 @@
+F:\My Works\WordamentSolver\WordamentSolver\bin\Release\WordamentSolver.exe.config
+F:\My Works\WordamentSolver\WordamentSolver\bin\Release\WordamentSolver.exe
+F:\My Works\WordamentSolver\WordamentSolver\bin\Release\WordamentSolver.pdb
+F:\My Works\WordamentSolver\WordamentSolver\bin\Release\NetSpell.SpellChecker.dll
+F:\My Works\WordamentSolver\WordamentSolver\bin\Release\NetSpell.SpellChecker.xml
+F:\My Works\WordamentSolver\WordamentSolver\obj\Release\WordamentSolver.Form1.resources
+F:\My Works\WordamentSolver\WordamentSolver\obj\Release\WordamentSolver.Properties.Resources.resources
+F:\My Works\WordamentSolver\WordamentSolver\obj\Release\WordamentSolver.csproj.GenerateResource.Cache
+F:\My Works\WordamentSolver\WordamentSolver\obj\Release\WordamentSolver.exe
+F:\My Works\WordamentSolver\WordamentSolver\obj\Release\WordamentSolver.pdb
